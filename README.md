@@ -1,5 +1,5 @@
 # New Project 
 this is new peoject 
 .
-# Name 
- This Created by Saniya 
+# Purpose
+This repos is only for learnig purpose 
