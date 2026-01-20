@@ -95,3 +95,28 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+input[type="submit"] {
+    background-color: #0077b5;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #005f8d;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    color: #666;
+    font-size: 14px;
+}
+
+hr {
+    display: none;
+}
